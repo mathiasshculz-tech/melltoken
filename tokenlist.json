@@ -1,18 +1,21 @@
 {
   "name": "MELL Token List",
-  "logoURI": "https://raw.githubusercontent.com/mathiasschulz-tech/melltoken/main/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/mathiasshculz-tech/melltoken/main/MEIL.png",
+  "keywords": ["MELL", "Polygon", "DeFi", "Community"],
   "timestamp": "2025-10-22T00:00:00+00:00",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
   "tokens": [
     {
       "chainId": 137,
       "address": "0xc18c4E2F3692ecE6c8C21DF3E764D46c12A2dc65",
-      "name": "MELL Token",
+      "name": "MELL",
       "symbol": "MELL",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mathiasschulz-tech/melltoken/main/logo.png",
-      "website": "https://melltoken.io",
-      "description": "MELL Token — Polygon ERC-20 community & DeFi token."
+      "logoURI": "https://raw.githubusercontent.com/mathiasshculz-tech/melltoken/main/MEIL.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
