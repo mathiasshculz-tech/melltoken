@@ -1,14 +1,20 @@
 {
   "name": "MELL List",
+  "logoURI": "https://raw.githubusercontent.com/mathiasshculz-tech/melltoken/main/MELLTOKEN.png",
   "timestamp": "2025-10-22T00:00:00Z",
-  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "version": { 
+    "major": 1, 
+    "minor": 0, 
+    "patch": 0 
+  },
   "tokens": [
     {
       "chainId": 137,
       "address": "0xc18c4E2F3692ecE6c8C21DF3E764D46c12A2dc65",
       "name": "MELL",
       "symbol": "MELL",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mathiasshculz-tech/melltoken/main/MELLTOKEN.png"
     }
   ]
 }
